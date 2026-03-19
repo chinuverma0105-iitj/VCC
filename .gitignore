@@ -1,0 +1,37 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+.env.*
+
+# Dependencies / builds (common)
+node_modules/
+dist/
+build/
+.parcel-cache/
+.next/
+.nuxt/
+.svelte-kit/
+.astro/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Java
+target/
+
